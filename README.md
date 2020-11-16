@@ -9,6 +9,6 @@ I am Shazaib Ahmed willing to work on android projects. I am always curious to l
 - 👯 I’m looking to collaborate on **Android Project**
 - 🤔 I’m looking for help with **Flutter**
 - 💬 Ask me about **SDK, Resume, Android, Java**
-- 📫 How to reach me: Email - **shazzy1901.sa@gmail.com**, Instagram - **shazi_ahmed**, Twitter -**shazi_ahmed**
+- 📫 How to reach me: Email - **shazzy1901.sa@gmail.com**, Instagram - **shazi_ahmed**, Twitter - **shazi_ahmed**
 - ⚡ Fun fact: **Give me a reason to work.**
 
