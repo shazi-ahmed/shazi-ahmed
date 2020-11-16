@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with **Flutter**
 - 💬 Ask me about **SDK, Resume, Android, Java**
 - 📫 How to reach me: **shazzy1901.sa@gmail.com**
-- ⚡ Fun fact:**Give me a reason to work.**
+- ⚡ Fun fact: **Give me a reason to work.**
 
